@@ -25,5 +25,5 @@ const { theme, toggleTheme } = useTheme();
 ## Scripts
 
 - `npm start` – run the dev server at http://localhost:3000
-- `npm test` – run tests
+- `npm test` – run tests  
 - `npm run build` – production build
